@@ -6,7 +6,7 @@
 ## Hi there 👋
 I'm Diego Tomé and I am a Ph.D. student in the Database Architectures group at CWI-NL. My research interests include data compression, co-processing with GPUs and the usage of emerging hardware to accelerate queries. 
 
-You can find a full list of my publications [here](www.diegomestre2.github.io).
+You can find a full list of my publications [here](https://diegomestre2.github.io/).
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=diegomestre2&hide=["issues"]&show_icons=true)
 
