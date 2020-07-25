@@ -10,6 +10,7 @@ You can find a full list of my publications [here](https://diegomestre2.github.i
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=diegomestre2&hide=["issues"]&show_icons=true)
 
+[![Visits Badge](https://badges.pufler.dev/visits/diegomestre2/diegomestre2)](https://badges.pufler.dev)
 
 
 - 🔭 I’m currently working on a novel compression model called White-box compression for databases.
