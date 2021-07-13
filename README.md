@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Diegotome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Diegotome)](https://twitter.com/Diegotome)
 
 ## Hi there 👋
-I'm Diego Tomé and I am a Ph.D. student in the Database Architectures group at CWI-NL. My research interests include data compression, co-processing with GPUs and the usage of emerging hardware to accelerate queries. 
+I'm Diego Tomé and I am a Ph.D. student in the Database Architectures group at CWI-NL. My research interests include data compression, co-processing with GPUs and the usage of emerging hardware to accelerate queries. I am also a Software Engineer Intern at RelationalAI and I am helping a great team to build the world’s fastest, most scalable, most expressive, most open knowledge graph management system.
 
 You can find a full list of my publications [here](https://diegomestre2.github.io/).
 
