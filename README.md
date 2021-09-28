@@ -14,7 +14,7 @@ You can find a full list of my publications [here](https://diegomestre2.github.i
 
 
 - 🔭 I’m currently working on a novel compression model called White-box compression for databases.
-- 🌱 I’m currently learning Modern C++
+- 🌱 I’m currently learning Modern C++20
 - 👯 I’m looking to collaborate on Database related projects
 - 💬 Ask me about your data and I will tell you who you are.
 - 📫 How to reach me: diegogomest@gmail.com
