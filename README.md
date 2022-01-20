@@ -12,11 +12,9 @@ You can find a full list of my publications [here](https://diegomestre2.github.i
 
 [![Visits Badge](https://badges.pufler.dev/visits/diegomestre2/diegomestre2)](https://badges.pufler.dev)
 
-
-- 🔭 I’m currently working on a novel compression model called White-box compression for databases.
-- 🌱 I’m currently learning Modern C++20
+- 🔭 I’m currently working on a novel compression framework for databases.
+- 🌱 I’m continually studying Modern C++, and more recently, Julia
 - 👯 I’m often contributing to open source projects like DuckDB
-- 💬 Ask me about your data and I will tell you who you are.
+- 💬 Ask me about your data, and I will tell you who you are.
 - 📫 How to reach me: diegogomest@gmail.com
-- ⚡ Fun fact: My main super power is giving advice.
-
+- ⚡ Fun fact: My leading superpower is giving advice.
