@@ -8,7 +8,15 @@ I'm Diego Tomé and I am a Ph.D. student in the Database Architectures group at 
 
 You can find a full list of my publications [here](https://diegomestre2.github.io/).
 
-![GH stats](https://github-readme-stats.vercel.app/api?username=diegomestre2&hide=["issues"]&show_icons=true)
+<div style="text-align: center">
+  <a href="https://diegomestre2.github.io/diegomestre2/">
+    <img src="https://github-readme-stats.vercel.app/api?username=diegomestre2&show_icons=true&include_all_commits=true%20&count_private=true&disable_animations=true" width="50%" height="auto">
+  </a>
+  <br>
+  <a href="https://diegomestre2.github.io/diegomestre2/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomestre2&layout=compact&disable_animations=true&langs_count=6" width="50%" height="auto">
+  </a>
+</div>
 
 [![Visits Badge](https://badges.pufler.dev/visits/diegomestre2/diegomestre2)](https://badges.pufler.dev)
 
