@@ -20,9 +20,9 @@ You can find a full list of my publications [here](https://diegomestre2.github.i
 
 [![Visits Badge](https://badges.pufler.dev/visits/diegomestre2/diegomestre2)](https://badges.pufler.dev)
 
-- 🔭 I’m currently working on a novel compression framework for databases and data-aware hash joins.
-- 🌱 I’m continually studying Modern C++, and more recently, Julia
-- 👯 I’m often contributing to open source projects like DuckDB
+- 🔭 Currently working on a novel compression framework and data-aware hash joins.
+- 🌱 Continually studying Modern C++, and more recently, Julia
+- 👯 Often contributing to open source projects like DuckDB
 - 💬 Ask me about your data, and I will tell you who you are.
 - 📫 How to reach me: diegogomest@gmail.com
-- ⚡ Fun fact: My leading superpower is giving advice.
+- ⚡ Fun fact: My main superpower is giving advice.
