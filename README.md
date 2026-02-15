@@ -4,7 +4,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Diegotome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Diegotome)](https://twitter.com/Diegotome)
 
 ## Hi there 👋
-I'm Diego Tomé and I am a Ph.D. student in the Database Architectures group at CWI-NL. My research interests include compressed storage/execution, co-processing with GPUs and optimizations for database operators. I often contribute to https://duckdblabs.com/.
+
+I am Diego Tomé, a Systems Engineer focused on building scalable, high-performance data infrastructure. 8+ years developing production-grade database engines in C++. Track record of delivering 10×–1000× performance improvements through architecture and low-level optimization.
 
 You can find a full list of my publications [here](https://diegomestre2.github.io/).
 
