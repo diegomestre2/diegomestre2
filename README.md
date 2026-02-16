@@ -21,7 +21,7 @@ You can find a full list of my publications [here](https://diegomestre2.github.i
 
 [![Visits Badge](https://badges.pufler.dev/visits/diegomestre2/diegomestre2)](https://badges.pufler.dev)
 
-- 🔭 Currently working on a novel compression framework and data-aware hash joins.
+- 🔭 Currently working on a new distributed database system.
 - 🌱 Continually studying Modern C++, and more recently, Julia
 - 👯 Often contributing to open source projects like DuckDB
 - 💬 Ask me about your data, and I will tell you who you are.
